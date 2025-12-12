@@ -31,7 +31,7 @@ This project serves as a foundation for integrating advanced features such as My
 
 - Uses ArrayList to store buses and bookings dynamically.
 
-**Project Structure**
+Project Structure
 |-- BusReservationSystem
     |-- Bus.java        // Bus properties and validation
     |-- Booking.java    // Booking details and logic
